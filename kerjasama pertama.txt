@@ -1,3 +1,5 @@
 Membuat File di Github
 - Menambahkan File
 - Mengupadate File
+- Menghapus File
+- Mengedit File
