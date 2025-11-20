@@ -1,0 +1,6 @@
+Halo. Saya Baihaqy saya dari akun ke 2
+Resolusi saya
+- Membuat Program Python Tentang Kalkulator
+                          - Tentang Menjulahkan
+                          - Tentang Perpangkatan
+- Membuat PRogram Devc++
